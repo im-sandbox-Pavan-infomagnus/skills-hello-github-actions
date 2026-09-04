@@ -42,7 +42,7 @@ Workflows let you automate tasks like building, testing, or deploying your code,
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
-- Make sure you are on the `welcome-workflow` branch when creating the workflow file.
 - Double-check the file path and YAML indentation.
+- Make sure you are on the `welcome-workflow` branch when creating the workflow file.
 
 </details>
